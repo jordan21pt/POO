@@ -1,0 +1,19 @@
+Aluno:
+-numero: String
+-nota: Int
+-nome: String
+-curso: String
+____________________
++ Get(..)
++ Set(..)
++ ..
+
+
+Turma:
+-designacao: String
+____________________
++ get(...)
++ set(...)
++ addAluno(a:Aluno)
++ existeAluno(nome:Aluno)
++ existeAlunoNum(num:String)
